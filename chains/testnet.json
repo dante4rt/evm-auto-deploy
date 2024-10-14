@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Unichain Sepolia Testnet",
+    "rpcUrl": "https://autumn-cosmological-scion.unichain-sepolia.quiknode.pro/c568806873f2a9edb9fcdea8aef0569ff729eb25",
+    "chainId": "1301",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.uniscan.xyz"
+  },
+  {
+    "name": "Open Campus",
+    "rpcUrl": "https://rpc.open-campus-codex.gelato.digital",
+    "chainId": "656476",
+    "symbol": "EDU",
+    "explorer": "https://opencampus-codex.blockscout.com"
+  },
+  {
+    "name": "Superposition Testnet",
+    "rpcUrl": "https://testnet-rpc.superposition.so",
+    "chainId": "98985",
+    "symbol": "SPN",
+    "explorer": "https://testnet-explorer.superposition.so"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]

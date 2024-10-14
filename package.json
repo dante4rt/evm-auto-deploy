@@ -1,0 +1,28 @@
+{
+  "name": "evm-auto-deploy",
+  "version": "1.0.0",
+  "description": "A tool for automatically deploying Ethereum smart contracts to various networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ethereum",
+    "smart-contracts",
+    "deployment",
+    "solidity",
+    "evm",
+    "auto-deploy"
+  ],
+  "author": "dante4rt",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "readline-sync": "^1.4.10",
+    "solc": "^0.8.28"
+  }
+}
