@@ -1,5 +1,12 @@
 [
   {
+    "name": "Rome Test Network",
+    "rpcUrl": "https://rome.testnet.romeprotocol.xyz",
+    "chainId": "200002",
+    "symbol": "ROME",
+    "explorer": "https://rome.testnet.romeprotocol.xyz:1000"
+  },
+  {
     "name": "Unichain Sepolia Testnet",
     "rpcUrl": "https://autumn-cosmological-scion.unichain-sepolia.quiknode.pro/c568806873f2a9edb9fcdea8aef0569ff729eb25",
     "chainId": "1301",
