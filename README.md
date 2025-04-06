@@ -79,6 +79,14 @@ To use **EVM Auto Deploy**, you need to create a `.env` file in the root directo
 PRIVATE_KEY=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
 ```
 
+### Create an `address.txt` file in the root directory when you need to distribute it.
+```
+   0x00000000000
+   0x00000000000
+   0x00000000000
+   ...
+```
+
 ## Donations
 
 If you would like to support the development of this project, you can make a donation using the following addresses:
